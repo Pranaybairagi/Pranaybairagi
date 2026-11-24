@@ -23,7 +23,7 @@
   <tr>
     <td width="30%" align="center" valign="top">
       <a href="https://www.amazon.com/dp/B0HS6F1HW6">
-        <img src="https://raw.githubusercontent.com/Pranaybairagi/autonomous-ai-agents/main/figures/book_cover.jpg" alt="Autonomous AI Agents with Python" width="220" style="border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
+        <img src="book_cover.jpg" alt="Autonomous AI Agents with Python" width="220" style="border-radius: 8px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
       </a>
       <br/><br/>
       <a href="https://www.amazon.com/dp/B0HS6F1HW6"><strong>Available Globally on Amazon</strong></a>
